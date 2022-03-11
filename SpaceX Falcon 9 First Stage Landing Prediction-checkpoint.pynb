@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "94e1ab35",
+   "id": "822191e0",
    "metadata": {},
    "source": [
     "### Import Libraries and Define Auxiliary Functions"
@@ -11,7 +11,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "ac9efae0",
+   "id": "12f89e62",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -28,14 +28,14 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "03f41467",
+   "id": "b344a8b4",
    "metadata": {},
    "outputs": [],
    "source": []
   },
   {
    "cell_type": "markdown",
-   "id": "03384304",
+   "id": "c4334c0e",
    "metadata": {},
    "source": [
     "## Exokiratirt Data Analysis"
@@ -44,7 +44,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "71f458f3",
+   "id": "fc2232ea",
    "metadata": {},
    "outputs": [
     {
@@ -238,7 +238,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "28d23318",
+   "id": "61dbdb5b",
    "metadata": {},
    "source": [
     " #### We can plot out the FlightNumber vs. PayLoadMass and ovrlay the out come of the launch. We see that as the flight number increase., the \n",
@@ -248,7 +248,7 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "2d7aca8d",
+   "id": "ec62026e",
    "metadata": {},
    "outputs": [
     {
@@ -273,7 +273,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "267abf4d",
+   "id": "03d83b77",
    "metadata": {},
    "source": [
     "### Visualize the relationship between Fligh Numbr and Launch Site."
@@ -282,7 +282,7 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "1d0c4551",
+   "id": "a759481c",
    "metadata": {},
    "outputs": [
     {
@@ -308,7 +308,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "39dda5c1",
+   "id": "261ea5e5",
    "metadata": {},
    "source": [
     "### Visualize the relationship between success rate of each orbit type"
@@ -317,7 +317,7 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "679c5a62",
+   "id": "ac26d6ea",
    "metadata": {},
    "outputs": [
     {
@@ -507,7 +507,7 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "59551df7",
+   "id": "84eb8e82",
    "metadata": {},
    "outputs": [
     {
@@ -542,7 +542,7 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "8dc1cb2e",
+   "id": "9ed8b2d2",
    "metadata": {},
    "outputs": [
     {
@@ -571,7 +571,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8b4c2566",
+   "id": "e698e9e3",
    "metadata": {},
    "source": [
     "### Visualize the relationship between FlightNumber and Orbit type"
@@ -580,7 +580,7 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "384cc697",
+   "id": "b5f1bd4c",
    "metadata": {},
    "outputs": [
     {
@@ -606,7 +606,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "626a9fce",
+   "id": "722478de",
    "metadata": {},
    "source": [
     "### Visualize the launch success yearly trend"
@@ -615,7 +615,7 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "21b713e4",
+   "id": "ec7b9033",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -630,7 +630,7 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "68ce1e42",
+   "id": "0ed99b8c",
    "metadata": {},
    "outputs": [
     {
@@ -661,14 +661,14 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "f1641aa2",
+   "id": "ae48beac",
    "metadata": {},
    "outputs": [],
    "source": []
   },
   {
    "cell_type": "markdown",
-   "id": "b004fdd1",
+   "id": "5c01b10d",
    "metadata": {},
    "source": [
     "## Features Engineering\n",
@@ -678,7 +678,7 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "77e98546",
+   "id": "a6c2d2ec",
    "metadata": {},
    "outputs": [
     {
@@ -825,14 +825,14 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "1dd0aea1",
+   "id": "e70fd500",
    "metadata": {},
    "outputs": [],
    "source": []
   },
   {
    "cell_type": "markdown",
-   "id": "c42fb5fb",
+   "id": "0a178925",
    "metadata": {},
    "source": [
     "##  Create dummy variables to categorical columns\n",
@@ -842,7 +842,7 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "3ed120d9",
+   "id": "61b51b92",
    "metadata": {},
    "outputs": [
     {
@@ -1061,14 +1061,14 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "c896a086",
+   "id": "ce5ccd6b",
    "metadata": {},
    "outputs": [],
    "source": []
   },
   {
    "cell_type": "markdown",
-   "id": "ec51f040",
+   "id": "5a9f7000",
    "metadata": {},
    "source": [
     "##  Cast all numeric columns to float64"
@@ -1077,7 +1077,7 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "f6da5ae3",
+   "id": "d4effde9",
    "metadata": {},
    "outputs": [
     {
@@ -1111,7 +1111,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "53387c97",
+   "id": "1fa3aac8",
    "metadata": {},
    "outputs": [],
    "source": []
